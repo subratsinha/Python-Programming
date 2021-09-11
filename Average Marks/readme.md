@@ -1,0 +1,1 @@
+#### Python program to read the record of n students in a dictionary containing key/value pairs of name: [marks]. Print the average of the marks obtained by the particular student correct in decimal .
