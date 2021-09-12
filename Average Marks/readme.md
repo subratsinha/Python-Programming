@@ -11,4 +11,4 @@ Arjun 70 98 63
 Malika 52 56 60
 
 #### Sample Output 
-56.0
+56.00
