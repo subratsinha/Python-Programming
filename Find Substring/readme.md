@@ -2,7 +2,7 @@
 
 
 ### Sample Input
-ABCDCDC
+ABCDCDC <br>
 CDC
 
 ### Sample Output
