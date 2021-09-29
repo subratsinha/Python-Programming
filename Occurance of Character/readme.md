@@ -10,3 +10,5 @@ ABaBCbGc
 3B 
 2C
 1G
+
+#### Note: It is case insensitive. 
