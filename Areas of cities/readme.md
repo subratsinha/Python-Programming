@@ -8,6 +8,6 @@ Delhi 190 1484
 
 #### Open file city.txt and read to:
 
-a.	Display details of all cities  
-b.	Display city names with population more than 10Lakhs 
-c.	Display sum of areas of all cities 
+1. Display details of all cities.
+2. Display city names with population more than 10Lakhs.
+3. Display sum of areas of all cities. 
